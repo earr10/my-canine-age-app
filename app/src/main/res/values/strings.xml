@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCanineAge</string>
+
+    <string name="how_old">How old are you?</string>
+    <string name="your_age">Your age (7, 21,49)</string>
+    <string name="calculate">OK</string>
+    <string name="insert_your_age">Insert your age</string>
+    <string name="result_text">Your canine age is %d"</string>
+
+    <string name="image_content">image_content</string>
+</resources>
